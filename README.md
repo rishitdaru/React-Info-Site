@@ -4,7 +4,7 @@ This is a basic dynamic react website to display some cool facts about react
 
 # Preview:
 
-// add image here.
+![react_facts_dark_and_light_mode](https://user-images.githubusercontent.com/65996001/211163045-71176562-8fe8-4a42-9097-f1910c32358e.jpg)
 
 - The `public` directory contains the html page
 - The `src` directory contains the images and the components folder and all other js and css files.
